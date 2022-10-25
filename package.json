@@ -1,6 +1,11 @@
 {
   "name": "guste",
   "version": "0.1.0",
+  "description": "Try cloning Guste Design website",
+  "author": {
+    "name": "fudhoil",
+    "site": "https://fudhoil.vercel.app"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
